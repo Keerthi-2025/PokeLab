@@ -1,4 +1,4 @@
-# PokeDex API
+# PokeLab
 
 This is a RESTful API built using Spring Boot with a clean MVC architecture that displays all the Pokemon available along with their details.
 
